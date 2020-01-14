@@ -1,0 +1,163 @@
+
+/*vie et perso*/
+#life {
+position: absolute;
+
+top:82%;
+
+height: 10px;
+width:60px;
+background-color:black;
+}
+    
+
+
+.hehe{
+position: absolute;
+min-width:0%;
+width:calc(var(--width, 0) *1%) ;
+height:10px;
+left:0%;
+max-width: calc(100% - 1%);
+background-color: green;
+
+}   
+.test {
+    top: 30px;
+position: relative;
+right: 80px;       
+}
+
+
+#life2{
+position: absolute;
+left:15%;
+top:82%;
+height: 10px;
+width:60px;
+background-color:black;
+}
+
+
+.haha { 
+position: absolute;
+min-width: 0%;
+width:calc(var(--width, 0) *1%) ;
+height:10px;
+left:0%;
+max-width: calc(100% - 1%);
+background-color: green;
+}
+
+
+.test2 img { 
+    position: relative;
+    right:80px;
+    }
+#life3{
+
+left:100px;
+position: absolute;
+top:82%;
+height: 10px;
+width:60px;
+background-color:black;
+}
+
+
+.zaza{  
+min-width: 0%;
+width:calc(var(--width, 0) *1%) ;
+position: absolute;
+height:10px;
+left:0%;
+background-color:blue;
+max-width: calc(100% - 1%);
+}
+
+
+.shaman img {
+width: 200px;
+height: 300px;
+margin-left: 700px;
+}
+.test3 img { 
+right: 40px;
+top:50px;
+height: 185px;
+position: relative;
+
+}
+/* tableau option et menu */
+#tab{
+border: solid;
+width: 350px;
+height:420px;
+position:relative;
+bottom: 100px;
+margin-left: auto;
+
+}
+
+.trait{
+width: 345px;
+border: solid;
+margin-top:80px;
+}
+
+.trait2{
+width: 345px;
+border:solid;
+margin-top: 80px;
+}
+.trait3{
+width: 345px;
+border:solid;
+margin-top:80px;
+}
+.trait4{
+width: 345px;
+border:solid;
+margin-top:80px;
+}
+
+
+
+#button{
+    margin-left: 300px;
+    background: url('../rain/nuage2.png') no-repeat center;
+    height:100px;
+    width:100px;
+    background-size: contain;
+    float: left;
+    }
+
+#sisi{
+ border-top:18px solid transparent;
+    width:0px;
+
+    height: 0px;
+    position: absolute;
+ background-color: aqua;
+    top:40px;
+    left:30px;
+    margin-left:300px;
+ 
+    border-bottom: 18px solid transparent;
+    border-left: 30px solid blue;
+
+}
+
+.reservoir{
+    width: 30px;
+    height:30px;
+    border: solid;
+    background-color: blue;
+}
+    
+body{
+
+    background: url('desert/desert3.png');
+    background-size: 1900px 1180px;
+}
+    
